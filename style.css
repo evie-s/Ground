@@ -1,0 +1,164 @@
+html{
+    height: 100px;
+}
+
+body{
+    background-color: #F0E9BF;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+nav{
+    background-color: #396500;
+}
+
+.navA{
+    color: #FCF8EC;
+    text-decoration: none;
+    margin: 5px;
+}
+
+footer{
+    background-color: #396500;
+}
+
+.homeHeading{
+    font-size: 35px;
+    color: #2F5402;
+}
+
+.homeHeading2{
+    font-size: 20px;
+    color: #2F5402;
+}
+
+.homeHeading3{
+    font-size: 10px;
+    color: #2F5402;
+}
+
+#homeImg{
+    background-image: url("media/leaves3.png");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.homeDiv{
+    background-color: #F0E9BF;
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+.homeA{
+    color: #2F5402;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    line-height: normal;
+    vertical-align: top;
+    top: 50%;
+    transform: translate(0, 300%);
+}
+
+#homeC{
+    transform: translate(0, 150%);
+}
+
+.azDiv{
+    background-color: #2F5402;
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+.azA{
+    color: #F0E9BF;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    line-height: normal;
+    vertical-align: top;
+    top: 50%;
+    transform: translate(0, 300%);
+}
+
+.submit{
+    background-color: #F0E9BF;
+    border: solid 5px #2F5402;
+    color: #396500;
+    height: 50px;
+    width: 200px;
+}
+
+.userInput{
+    font-size: 25px;
+    color: #2F5402;
+    font-weight: bold;
+}
+
+#azgfNewP{
+    text-align: center;
+}
+
+#azTwoP{
+    text-align: center;
+}
+
+#azThreeP{
+    text-align: center;
+}
+
+#cbtP1{
+    margin: 10px;
+}
+
+hr{
+    border: solid 2px #2F5402;
+}
+
+#cbtType{
+    background-color: #F0E9BF;
+    border: solid 5px #2F5402;
+    color: #396500;
+    height: 50px;
+    width: 400px;
+}
+
+#cbtNewP{
+    text-align: center;
+}
+
+#aboutH1{
+    text-align: center;
+}
+
+.ab{
+    text-align: center;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
